@@ -1,0 +1,10 @@
+#bomber{
+    background-image: url("bombs.jpg");
+    height: 32vh;
+    background-repeat:no-repeat;
+    width: 25%;
+}
+#timer{
+    height: 100%;
+    width: 100%;
+}
